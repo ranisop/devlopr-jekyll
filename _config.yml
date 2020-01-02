@@ -42,7 +42,20 @@ author_website_url: # "http://johndoe.com"
 #               description: Worked on various Azure Cloud Products
 #               visibility: true
 
-# author_education_details:
+author_education_details:
+              - college_logo: multicampus.png
+                college_name: Multicampus
+                college_url: https://www.multicampus.com
+                college_degree: AI Design Utilizing BigData (Deep Learning)
+                #description: Bachelor of Technology
+                visibility: true
+              - college_logo: dankook.png
+                college_name: Dankook University
+                college_url: http://www.dankook.ac.kr/
+                college_degree: Multimedia Engineering
+                #description: Bachelor of Technology
+                visibility: true
+
 #               - college_logo: mit.png
 #                 college_name: MIT
 #                 college_url: https://mit.org
@@ -77,7 +90,7 @@ instagram_username: ur.rani
 #for comments using disqus
 # disqus_shortname: sujay-kundu  
 
-wakatime username (coding activity)
+#wakatime username (coding activity)
 wakatime_username: ranisop
 
 # formspree (contact form)
