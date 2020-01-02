@@ -43,16 +43,16 @@ author_website_url: # "http://johndoe.com"
 #               visibility: true
 
 author_education_details:
-              - college_logo: https://www.multicampus.com/img/saas/main/logo/CUS0001/pc_main.png
+              - college_logo: multicampus.png
                 college_name: Multicampus
                 college_url: https://www.multicampus.com
-                college_degree: AI Design Utilizing Big Data (Dip Learning)
+                college_degree: AI Design Utilizing BigData (Deep Learning)
                 #description: Bachelor of Technology
                 visibility: true
               - college_logo: dankook.png
                 college_name: Dankook University
                 college_url: http://www.dankook.ac.kr/
-                college_degree: multimedia Engineering
+                college_degree: Multimedia Engineering
                 #description: Bachelor of Technology
                 visibility: true
 
