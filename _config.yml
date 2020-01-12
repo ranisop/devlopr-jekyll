@@ -66,7 +66,13 @@ author_education_details:
 #                 description: Bachelor of Technology
 #                 visibility: true
 
-# author_project_details:
+author_project_details:
+              - project_thumbnail: miss64.png
+                project_title: 척척박사
+                project_description: Sites where you can search the user manual for electronic products
+#                 project_url: 
+                visibility: true
+
 #               - project_thumbnail: gamershub.png
 #                 project_title: Gamers Hub
 #                 project_description: A Platform built for Gamers and Game Devs
